@@ -15,7 +15,3 @@ Technologies Used:
 - Python
 - Tkinter (for GUI development)
 
-How to Run:
-- Clone the repository
-- Install the required dependencies
-- Run calculator.py
